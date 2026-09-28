@@ -211,10 +211,6 @@ This notebook covers the fundamentals of SQL and database operations using MySQL
 
 After completing Sprint 1, I will be able to:
 
-## Learning Outcomes
-
-After completing Sprint 1, I will be able to:
-
 * Understand and apply Python programming fundamentals.
 * Implement OOP concepts such as classes, objects, inheritance, and polymorphism.
 * Handle exceptions and use logging for debugging and error tracking.
