@@ -1,7 +1,5 @@
 # Sprint-1-Python-SQL-fundamentals
 
-# Sprint 1 – Python & SQL Fundamentals
-
 ## Overview
 
 This repository contains my learning and practice work for **Sprint 1 – Python & SQL Fundamentals**.
