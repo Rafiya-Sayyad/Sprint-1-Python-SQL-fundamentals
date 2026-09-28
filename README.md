@@ -211,70 +211,16 @@ This notebook covers the fundamentals of SQL and database operations using MySQL
 
 After completing Sprint 1, I will be able to:
 
-### Python
+## Learning Outcomes
 
-* Understand and use Python programming fundamentals.
-* Work with variables, data types, operators, and expressions.
-* Use conditional statements and loops to control program flow.
-* Work with Python collections such as lists, tuples, sets, and dictionaries.
-* Create and use functions.
-* Use modules and packages in Python.
-* Write simple and structured Python programs.
+After completing Sprint 1, I will be able to:
 
-### Object-Oriented Programming
-
-* Understand the basic principles of Object-Oriented Programming.
-* Create classes and objects in Python.
-* Use constructors, methods, and attributes.
-* Implement encapsulation, inheritance, polymorphism, and abstraction.
-* Understand different types of inheritance.
-* Create reusable object-oriented programs.
-
-### Exception Handling
-
-* Understand the difference between errors and exceptions.
-* Identify common Python exceptions.
-* Handle exceptions using `try`, `except`, `else`, and `finally`.
-* Raise exceptions using `raise`.
-* Create custom exceptions for specific situations.
-* Write programs that handle errors safely.
-
-### Logging
-
-* Understand the purpose of logging in applications.
-* Use different logging levels appropriately.
-* Create formatted log messages.
-* Write logs to files and the console.
-* Use handlers for managing log output.
-* Understand basic log rotation.
-
-### File Handling
-
-* Read and write text files using Python.
-* Work with CSV, JSON, and Pickle files.
-* Use context managers for safe file operations.
-* Work with files and directories using `pathlib`, `os`, and `shutil`.
-* Perform basic file validation and directory operations.
-
-### SQL
-
-* Understand relational database concepts.
-* Create and manage databases and tables.
-* Insert, retrieve, update, and delete data.
-* Filter and sort data using SQL queries.
-* Use aggregate functions and grouping.
-* Work with primary keys, foreign keys, and constraints.
-* Combine data from multiple tables using joins.
-* Use subqueries for more advanced data retrieval.
-* Connect Python applications with MySQL databases.
-
-### Development and Version Control
-
-* Work with Jupyter Notebooks for learning and implementation.
-* Organize code and learning materials into separate notebooks.
-* Use Git for version control.
-* Create and manage a GitHub repository.
-* Commit and track changes in a project.
+* Understand and apply Python programming fundamentals.
+* Implement OOP concepts such as classes, objects, inheritance, and polymorphism.
+* Handle exceptions and use logging for debugging and error tracking.
+* Work with text, CSV, JSON, Pickle files, and directories using Python.
+* Write SQL queries and perform database operations using MySQL.
+* Use Jupyter Notebook, Git, and GitHub for development and version control.
 
 ---
 
